@@ -1,0 +1,644 @@
+Movie_name,Rating,Votes,Duration,genre
+The Order,6.8, (50K),1h 56m,crime
+Carry-On,6.5, (173K),1h 59m,crime
+The Beekeeper,6.3, (163K),1h 45m,crime
+Longlegs,6.6, (194K),1h 41m,crime
+Wolfs,6.5, (89K),1h 48m,crime
+Juror #2,7.0, (105K),1h 54m,crime
+Trap,5.8, (146K),1h 45m,crime
+Rebel Ridge,6.8, (91K),2h 11m,crime
+Freaky Tales,6.2, (7.6K),1h 47m,crime
+The Unholy Trinity,6.0, (569),1h 35m,crime
+MaXXXine,6.2, (74K),1h 43m,crime
+Despicable Me 4,6.2, (69K),1h 34m,crime
+The Thicket,5.8, (3.7K),1h 48m,crime
+Bad Boys: Ride or Die,6.5, (103K),1h 55m,crime
+The Girl with the Needle,7.5, (15K),2h 3m,crime
+Love Lies Bleeding,6.6, (59K),1h 44m,crime
+The Seed of the Sacred Fig,7.6, (16K),2h 47m,crime
+The Crow,4.7, (37K),1h 51m,crime
+Maharaja,8.4, (71K),2h 21m,crime
+Absolution,5.2, (9.1K),1h 52m,crime
+Monkey Man,6.8, (94K),2h 1m,crime
+The Instigators,6.2, (39K),1h 41m,crime
+Lucky Baskhar,8.0, (35K),2h 28m,crime
+Old Guy,5.2, (3.2K),1h 34m,crime
+Emilia Pérez,5.4, (91K),2h 12m,crime
+Lift,5.5, (50K),1h 47m,crime
+Sleeping Dogs,6.2, (22K),1h 50m,crime
+Beverly Hills Cop: Axel F,6.4, (83K),1h 58m,crime
+Greedy People,6.2, (13K),1h 52m,crime
+Riff Raff,5.6, (4.2K),1h 43m,crime
+Inside,6.8, (347),1h 44m,crime
+Pushpa: The Rule - Part 2,6.1, (59K),3h 21m,crime
+Dead Mail,6.0, (2.1K),1h 46m,crime
+Brothers,5.4, (14K),1h 29m,crime
+Marco,6.7, (23K),2h 25m,crime
+Trigger Warning,4.6, (20K),1h 46m,crime
+The Silent Hour,6.1, (8.4K),1h 39m,crime
+Guns & Moses,7.9, (99),1h 34m,crime
+First Shift,4.4, (2.1K),1h 29m,crime
+Ghost Killer,6.8, (89),1h 45m,crime
+The Shadow Strays,6.5, (9.7K),2h 24m,crime
+Green Bones,7.1, (456),1h 36m,crime
+Killer Heat,5.6, (14K),1h 35m,crime
+Santosh,7.1, (2.5K),2h 8m,crime
+Boneyard,4.1, (5.2K),1h 36m,crime
+Force of Nature: The Dry 2,5.8, (7.5K),2h,crime
+King Ivory,7.1, (78),2h 10m,crime
+Lost on a Mountain in Maine,6.1, (1.6K),1h 38m,crime
+Twilight of the Warriors: Walled In,6.9, (10K),2h 6m,crime
+Blood Star,6.3, (6.2K),1h 37m,crime
+Baby John,5.1, (18K),2h 39m,crime
+Barron's Cove,6.1, (187),1h 56m,crime
+Sector 36,7.1, (26K),2h 3m,crime
+Misericordia,6.8, (2.7K),1h 44m,crime
+Saripodhaa Sanivaaram,7.0, (10K),2h 46m,crime
+The Quiet Ones,6.1, (1.1K),1h 50m,crime
+The Menendez Brothers,7.0, (9.8K),1h 59m,crime
+Beating Hearts,7.0, (6.1K),2h 46m,crime
+Stand Your Ground,4.6, (355),1h 39m,crime
+Damaged,4.7, (7.6K),1h 37m,crime
+Blackwater Lane,4.6, (2.3K),1h 48m,crime
+Singham Again,4.7, (75K),2h 24m,crime
+Lake George,6.5, (1.6K),1h 58m,crime
+Do Patti,6.4, (69K),2h 6m,crime
+Badland Hunters,5.9, (13K),1h 47m,crime
+Amongst the Wolves,5.2, (312),1h 42m,crime
+Code 8: Part II,5.7, (16K),1h 40m,crime
+Armor,3.6, (4.6K),1h 29m,crime
+Officer Black Belt,6.9, (8.8K),1h 48m,crime
+Revolver,5.4, (928),1h 54m,crime
+My Fault,4.2, (7.2K),2h,crime
+Duchess,4.6, (1.6K),1h 54m,crime
+The Thundermans Return,5.0, (1.9K),1h 10m,crime
+The Pee Pee Poo Poo Man,8.2, (32),1h 19m,crime
+Anweshippin Kandethum,7.4, (11K),2h 22m,crime
+Belle,5.3, (143),1h 40m,crime
+Matka,4.7, (608),2h 36m,crime
+Le Mohican,6.8, (258),1h 27m,crime
+The Trainer,7.2, (66),1h 35m,crime
+Drugstore June,5.4, (1.8K),1h 31m,crime
+Long Gone Heroes,5.1, (1.3K),1h 41m,crime
+Kill the Jockey,6.4, (1.9K),1h 36m,crime
+Marmalade,6.3, (3.8K),1h 39m,crime
+Golam,7.2, (6K),2h,crime
+Detained,4.9, (1.9K),1h 37m,crime
+Trouble,6.2, (7.2K),1h 38m,crime
+She's Got No Name,5.8, (208),1h 36m,crime
+The Courier,6.0, (4.6K),1h 41m,crime
+Toofan,7.3, (8.8K),2h 25m,crime
+Maldoror,6.8, (1K),2h 35m,crime
+Baby Assassins: Nice Days,7.2, (361),1h 43m,crime
+Bougainvillea,6.4, (3.4K),2h 18m,crime
+The Roundup: Punishment,6.6, (5.7K),1h 49m,crime
+Bagheera,6.7, (7.7K),2h 38m,crime
+Colors of Evil: Red,6.4, (8.7K),1h 51m,crime
+Hitpig,5.1, (1.1K),1h 26m,crime
+Sons,6.4, (2.3K),1h 40m,crime
+In Her Place,6.2, (7.2K),1h 36m,crime
+Lover Stalker Killer,7.0, (14K),1h 30m,crime
+The Sabarmati Report,6.4, (25K),2h 7m,crime
+Pani,6.9, (3.4K),2h 23m,crime
+Boundless,5.6, (2.1K),2h 1m,crime
+Raayan,6.5, (11K),2h 25m,crime
+Depravity,4.3, (1.1K),1h 57m,crime
+Harbin,6.2, (991),1h 48m,crime
+Sikandar Ka Muqaddar,5.9, (25K),2h 22m,crime
+The Calendar Killer,5.4, (4.5K),1h 37m,crime
+The Clean Up Crew,4.2, (1.3K),1h 35m,crime
+Laws of Man,5.0, (1.4K),1h 38m,crime
+Viduthalai Part 2,7.8, (17K),2h 50m,crime
+The Truth vs. Alex Jones,7.5, (3.1K),2h 1m,crime
+Sicilian Letters,6.0, (860),2h 2m,crime
+The Kingdom,6.9, (1.2K),1h 52m,crime
+Shoutai,6.8, (712),2h,crime
+Dead Sea,5.2, (5.5K),1h 28m,crime
+Justice,6.3, (4.1K),1h 53m,crime
+Two to One,6.1, (851),1h 56m,crime
+Cult Killer,4.8, (2.9K),1h 45m,crime
+Maharaj,6.5, (15K),2h 11m,crime
+Krista,5.5, (61),58m,crime
+DNA,5.1, (218),2h 36m,crime
+Rats!,6.5, (216),1h 25m,crime
+Megamind vs. The Doom Syndicate,2.5, (5.7K),1h 23m,crime
+Darkness of Man,4.7, (3.3K),1h 49m,crime
+Scopophobia,5.4, (87),1h 40m,crime
+Reputation,9.1, (11),1h 23m,crime
+The Soul Eater,5.8, (3K),1h 48m,crime
+What Jennifer Did,6.1, (12K),1h 27m,crime
+Uninvited,5.6, (343),1h 33m,crime
+Sons of Rizk 3,6.6, (1.8K),2h 5m,crime
+Bhakshak,7.2, (7.3K),2h 14m,crime
+Crescent City,3.9, (1.5K),1h 43m,crime
+City Hunter,6.3, (5.8K),1h 42m,crime
+Ulajh,6.0, (24K),2h 30m,crime
+Where Is Gilgamesh?,8.9, (640),1h 30m,crime
+Quotation Gang Part 1,8.7, (27),1h 58m,crime
+Mond,7.0, (330),1h 32m,crime
+Phir Aayi Hasseen Dillruba,5.8, (7K),2h 12m,crime
+To a Land Unknown,7.3, (613),1h 45m,crime
+How to Rob a Bank,6.6, (4.3K),1h 28m,crime
+Gumasthan,5.8, (555),2h 25m,crime
+Jailbreak: Love on the Run,6.4, (3.5K),1h 28m,crime
+Silence 2: The Night Owl Bar Shootout,6.2, (1.9K),2h 22m,crime
+Last Known Location,6.0, (1.4K),1h 50m,crime
+Dirty Ice Cream,4.1, (136),47m,crime
+Sayara,5.7, (296),1h 38m,crime
+5lbs of Pressure,5.2, (1.7K),1h 51m,crime
+Jigra,6.0, (24K),2h 33m,crime
+Crisis Negotiators,6.7, (752),2h,crime
+Midnight Taxi,5.2, (114),1h 37m,crime
+Thalavan,7.2, (5K),2h 11m,crime
+Hunt the Wicked,5.4, (183),1h 42m,crime
+Breaking the Silence: The Maria Soledad Case,6.3, (546),1h 35m,crime
+Vettaiyan,6.9, (40K),2h 43m,crime
+How to Make a Killing,6.5, (1.5K),1h 49m,crime
+Nico,8.2, (49),1h 49m,crime
+Case of Kondana,5.8, (723),2h 23m,crime
+Mafia Temptation,8.2, (7),1h 22m,crime
+Abraham Ozler,6.6, (4.3K),2h 23m,crime
+The Shameless,5.9, (319),1h 54m,crime
+"I, the Executioner",6.3, (2K),1h 58m,crime
+Here Now,4.9, (483),1h 58m,crime
+Strictly Confidential,2.8, (879),1h 34m,crime
+Bogota: City of the Lost,5.4, (2.1K),1h 48m,crime
+The Smile Man,7.5, (1.8K),2h 2m,crime
+Papa,7.5, (358),2h 11m,crime
+Kingsmen,6.2, (55),1h 12m,crime
+Strangers,4.3, (414),1h 46m,crime
+Bloodline Killer,4.2, (5.2K),1h 45m,crime
+Ride,5.9, (418),1h 54m,crime
+Freedom,5.9, (1.5K),1h 50m,crime
+Tillu Square,6.6, (3.5K),2h 17m,crime
+Siren,6.4, (3K),2h 34m,crime
+They Called Him Mostly Harmless,5.9, (3.3K),1h 29m,crime
+Bangkok Dog,4.8, (246),1h 25m,crime
+Scorched Earth,6.7, (629),1h 41m,crime
+Hijack 1971,6.8, (3.5K),1h 40m,crime
+Auron Mein Kahan Dum Tha,6.4, (41K),2h 30m,crime
+Kaulayaw,4.1, (189),1h 35m,crime
+Dead Wrong,3.7, (292),1h 44m,crime
+Go for Broke,5.7, (287),1h 55m,crime
+Jönssonligan kommer tillbaka,5.9, (1.6K),1h 44m,crime
+Untamed Royals,4.6, (670),1h 39m,crime
+Savi,6.1, (35K),2h 6m,crime
+Nunakuzhi,6.8, (3.1K),2h 5m,crime
+Wanted Man,4.8, (2.6K),1h 25m,crime
+The Park Maniac,4.8, (1.6K),1h 43m,crime
+Biggest Heist Ever,6.1, (1.6K),1h 25m,crime
+Seeds,5.0, (232),1h 22m,crime
+Visfot,5.7, (1.2K),2h 10m,crime
+A Place Called Silence,6.5, (1.4K),1h 59m,crime
+Broken Rage,6.1, (1.6K),1h 2m,crime
+Bhaje Vaayu Vegam,6.1, (771),2h 16m,crime
+Fluxx,6.0, (124),1h 40m,crime
+The Lockdown,4.3, (630),1h 57m,crime
+The Kingdom,7.0, (152),2h 13m,crime
+Sorgavaasal,6.6, (1.4K),2h 18m,crime
+Nefarious,7.2, (57),1h 25m,crime
+Mathu Vadalara 2,7.0, (1.8K),2h 19m,crime
+Una ballena,5.6, (175),1h 48m,crime
+Kurukku,6.3, (541),1h 49m,crime
+Kondal,5.3, (801),2h 27m,crime
+High Forces,5.8, (588),1h 59m,crime
+Second Life,6.8, (60),1h 45m,crime
+Nice Girls,4.2, (1.2K),1h 32m,crime
+Mr. Bachchan,3.6, (5.3K),2h 30m,crime
+Vina: Before 7 Days,5.4, (611),1h 40m,crime
+Satyabhama,5.9, (1.6K),2h 12m,crime
+Mission: Cross,6.1, (2.7K),1h 45m,crime
+Harom Hara,6.6, (3.1K),2h 34m,crime
+Faultline,4.7, (143),1h 32m,crime
+GTMax,5.0, (1.3K),1h 40m,crime
+Bastar: The Naxal Story,6.4, (3.3K),2h 4m,crime
+The Notorious Finster,4.0, (182),1h 53m,crime
+Jamalinte Punjiri,8.7, (171),2h 18m,crime
+Ferry 2,5.6, (4K),1h 34m,crime
+Suspicion,3.6, (219),1h 55m,crime
+Shakhahaari,7.5, (1.3K),2h 25m,crime
+In Youth We Trust,6.6, (536),2h 12m,crime
+Rendel: Cycle of Revenge,3.6, (254),1h 39m,crime
+Risky Business,6.7, (215),1h 47m,crime
+Protein,6.7, (76),1h 40m,crime
+The Final: Attack on Wembley,6.3, (2.6K),1h 22m,crime
+One of Those Days When Hemme Dies,6.3, (710),1h 23m,crime
+Sheriff,6.9, (1.2K),2h 13m,crime
+Roadkill,3.7, (696),1h 30m,crime
+Dandupalayam,5.9, (1.5K),2h 17m,crime
+Haunting Trophies,6.1, (87),2h 30m,crime
+Hellhound,4.3, (530),1h 43m,crime
+Sattam En Kaiyil,7.9, (2.3K),2h 4m,crime
+Prasanna Vadanam,6.6, (579),2h 26m,crime
+A Gangster's Kiss,4.6, (49),1h 21m,crime
+Bangkok Breaking: Heaven and Hell,5.8, (702),2h 26m,crime
+Kahar: Kapla High Council,7.1, (511),1h 42m,crime
+Amish Affair,5.5, (210),1h 26m,crime
+Gatao: Like Father Like Son,5.7, (262),2h 11m,crime
+Zebra,7.2, (3.2K),2h 44m,crime
+Dirty Money,5.6, (198),1h 40m,crime
+Jog 101,6.6, (502),1h 47m,crime
+Dengeler,5.2, (261),2h 3m,crime
+Accident or Conspiracy: Godhra,7.4, (791),2h 13m,crime
+Serpent's Path,5.8, (311),1h 52m,crime
+The Waterboyz,8.0, (94),1h 29m,crime
+Conquer: Lahad Datu,6.6, (549),2h,crime
+Bermondsey Tales: Fall of the Roman Empire,4.3, (213),1h 39m,crime
+The Mick and the Trick,4.8, (84),1h 36m,crime
+Anand Sreebala,6.6, (2.5K),2h 14m,crime
+Danger in the Dorm,5.0, (165),1h 26m,crime
+Best Man Dead Man,6.8, (47),1h 23m,crime
+Snatched,6.0, (534),1h 41m,crime
+"LSD 2: Love, Sex Aur Dhokha 2",3.8, (2.8K),1h 59m,crime
+Bheema,5.7, (974),2h 28m,crime
+Lady Scorpions,3.6, (377),1h 41m,crime
+PT Sir,6.8, (1.8K),2h 10m,crime
+Ugravatara,8.4, (853),2h 2m,crime
+10 Days of a Curious Man,5.7, (1.4K),1h 50m,crime
+Saindhav,5.0, (1.6K),2h 18m,crime
+Valley of the Shadow of Death,6.5, (78),1h 24m,crime
+Top Floor,5.9, (62),1h 14m,crime
+"MoviePass, MovieCrash",6.7, (2.9K),1h 36m,crime
+Andhagan,6.6, (1.2K),2h 22m,crime
+Nirangal Moondru,6.1, (561),2h 2m,crime
+Lorry Chapter-1,6.2, (2.8K),3h 3m,crime
+The Birds Who Fear Death,9.2, (73),1h 42m,crime
+Dutch II: Angel's Revenge,6.5, (98),TV-MA,crime
+Citizen of a Kind,6.6, (915),1h 54m,crime
+Troll Factory,5.8, (494),1h 49m,crime
+Oru Nodi,6.7, (518),2h 8m,crime
+Killer Babes,3.5, (306),1h 34m,crime
+The Plot,4.8, (405),1h 40m,crime
+Nahir,4.7, (1.2K),2h 2m,crime
+Borderless Fog,5.2, (1.3K),1h 50m,crime
+Drive,5.6, (365),1h 30m,crime
+Gangs of Godavari,4.9, (920),2h 45m,crime
+Rautu Ka Raaz,6.3, (2K),1h 54m,crime
+Operation Raavan,7.7, (1.2K),2h 27m,crime
+Rakshana,5.5, (1.2K),2h 19m,crime
+Red,4.4, (138),1h 54m,crime
+Bars,5.8, (26),2h 15m,crime
+Untold: The Murder of Air McNair,5.6, (2.2K),57m,crime
+Chameleon,5.7, (36),2h 13m,crime
+Kaliyugam Pattanamlo,6.6, (2.2K),2h 30m,crime
+The Legend of the Vagabond Queen of Lagos,7.8, (42),1h 40m,crime
+ChiefsAholic: A Wolf in Chiefs Clothing,6.2, (411),2h 1m,crime
+The Bodyguard,6.6, (37),1h 27m,crime
+Chris Brown: A History of Violence,5.4, (334),1h 22m,crime
+Svemu dodje kraj,6.4, (371),1h 29m,crime
+Midas,4.6, (348),1h 25m,crime
+Daredevil vs Punisher,6.8, (5),1h 23m,crime
+Samandar,7.7, (143),2h 52m,crime
+Final Heist,4.4, (157),1h 23m,crime
+They Turned Us Into Killers,2.7, (264),1h 26m,crime
+Mani nude,6.6, (59),1h 24m,crime
+Murder and Cocktails,3.9, (370),1h 28m,crime
+The Shadow,6.4, (280),1h 30m,crime
+Siragan,7.0, (153),2h 10m,crime
+Khameleon,2.4, (6),1h 29m,crime
+Loverboy: Emoties Uit,6.4, (548),1h 38m,crime
+Silver Star,7.3, (17),1h 42m,crime
+Havnaa,7.1, (290),1h 50m,crime
+Octopus with Broken Arms,6.1, (332),1h 49m,crime
+Road to Terzetto,7.6, (76),1h 36m,crime
+Unspoken,8.2, (47),2h,crime
+Blackia 2,5.8, (132),2h 12m,crime
+Tòkunbò,3.9, (300),1h 53m,crime
+Villain - Life of a Gangster,8.7, (168),2h 21m,crime
+The Actor,3.4, (738),2h 8m,crime
+(Pri)sons,5.0, (296),1h 40m,crime
+Guess Who,4.8, (376),1h 33m,crime
+The Infallibles,4.8, (786),1h 39m,crime
+The Troll Hunter,8.4, (8),1h 22m,crime
+Ballistic,2.2, (165),1h 35m,crime
+The Heist,6.9, (2K),2h,crime
+The Hostage,5.0, (14),1h 27m,crime
+Mirza: Part 1 - Joker,6.8, (243),2h 45m,crime
+Pinnil Oral,7.4, (419),2h 7m,crime
+Peg O' My Heart,6.2, (172),1h 37m,crime
+The Seven Sorrows of Mary,6.7, (38),1h 38m,crime
+Taxali Gate,6.7, (163),1h 35m,crime
+Prepare to Die,4.5, (245),1h 33m,crime
+Reloaded 2,7.5, (1.2K),45m,crime
+The Epidemic,5.9, (71),1h 35m,crime
+Angry Squad: Civil Servants & Seven Swindlers,7.3, (94),2h,crime
+Sous écrous,5.6, (103),1h 51m,crime
+Yalakunni,8.6, (170),2h 15m,crime
+Plea,6.9, (27),1h 28m,crime
+"Hemet, or the Landlady Don't Drink Tea",4.3, (96),1h 29m,crime
+The Girl Who Wore Yellow Lace,4.9, (30),1h 22m,crime
+The Shakedown,5.0, (311),1h 44m,crime
+Scapegoat,5.6, (49),1h 25m,crime
+Texas Twister,2.5, (161),1h 28m,crime
+The Moon Thieves,6.0, (295),1h 48m,crime
+Desperado,6.0, (154),1h 40m,crime
+S.I.T,6.6, (2.3K),1h 50m,crime
+Cry of Silence,6.0, (82),1h 56m,crime
+"Rajagunj: Pooja, Sir",6.4, (793),1h 55m,crime
+Hit List,5.5, (316),2h 5m,crime
+Hustlers Take All,5.5, (86),1h 46m,crime
+Love You to Debt,6.3, (774),2h 15m,crime
+Jersey Bred,4.7, (77),1h 32m,crime
+Bayamariya Brammai,7.0, (35),1h 28m,crime
+Shu Si Yi Bo,6.7, (39),1h 31m,crime
+An American Bombing: The Road to April 19th,6.8, (931),1h 47m,crime
+Fyre Rises,6.1, (327),1h 50m,crime
+Anyone Else But Me,7.0, (156),1h 35m,crime
+Supplier Shankara,9.3, (73),2h 43m,crime
+Shivam Bhaje,7.9, (3K),2h 1m,crime
+Swing Bout,8.5, (193),1h 30m,crime
+Estômago II: O Poderoso Chef,5.8, (344),2h 11m,crime
+Little Jaffna,6.6, (173),1h 40m,crime
+Diddy: Summit to Plummet,2.4, (221),1h,crime
+Filthy Animals,6.9, (108),1h 36m,crime
+Vares X,3.6, (130),1h 25m,crime
+The Donor,9.0, (9),23m,crime
+Double or Nothing,8.0, (23),1h 36m,crime
+Silvio,3.1, (542),1h 54m,crime
+Dead Man,5.1, (216),1h 49m,crime
+Illusions for Sale: The Rise and Fall of Generation Zoe,6.2, (665),1h 47m,crime
+Dhakshina,5.4, (5.2K),1h 47m,crime
+Iravinil Aatam Par,3.3, (154),1h 58m,crime
+Rob N Roll,6.1, (1.5K),1h 38m,crime
+Bodiless,5.7, (1.1K),1h 30m,crime
+Plastic Guns,6.3, (666),1h 35m,crime
+State of Silence,6.4, (113),1h 20m,crime
+9 Windows,3.6, (327),1h 22m,crime
+RapeD,7.1, (29),1h 45m,crime
+Who Killed Terrance Brown?,6.2, (11),1h 35m,crime
+Heart of the Man,5.8, (12),1h 25m,crime
+The Experts,6.2, (307),2h 1m,crime
+Yevam,5.8, (1.6K),2h 3m,crime
+Young Lion of the West,5.3, (110),1h 33m,crime
+Kiyma: Orman Kanunlari,3.9, (43),1h 21m,crime
+Among Neighbors,9.7, (51),1h 40m,crime
+Miséria,4.2, (107),1h 39m,crime
+Take Good Care,5.7, (7),1h 41m,crime
+Shadows of Betrayal: Chronicles of Ian Blair,7.5, (14),1h 5m,crime
+The Murder of Sandra Rivett,6.3, (149),1h 30m,crime
+Pattaya Heat,5.7, (227),1h 57m,crime
+Gini Avi Saha Gini Keli 2,8.7, (17),1h 58m,crime
+Sentimentaaal,4.9, (991),2h 15m,crime
+Kiss of the Con Queen,7.3, (31),1h 57m,crime
+Blood Dried Hands,6.2, (167),1h 55m,crime
+The Texas Cheerleader Murder Plot,5.0, (306),1h 40m,crime
+The Unwavering Brotherhood,5.3, (85),1h 34m,crime
+Killerwood,6.6, (68),1h 24m,crime
+The Desperate Chase,5.7, (75),1h 50m,crime
+Wannabe,4.5, (136),1h 42m,crime
+Untouchable,4.5, (91),1h 52m,crime
+What Happens in Miami,4.2, (221),1h 30m,crime
+Priyo Maloti,6.8, (232),1h 59m,crime
+Red Night at Skye's,7.1, (12),1h 22m,crime
+Formed Police Unit,4.7, (1.4K),2h,crime
+Aaro,4.4, (13),2h,crime
+No Cap,5.6, (41),1h 48m,crime
+The Worst Man in London,5.7, (151),2h 7m,crime
+Chithini,5.9, (553),2h 31m,crime
+Dark Deceptions,6.2, (36),1h 22m,crime
+RTI,5.9, (26),2h 10m,crime
+Con Queens,6.2, (23),1h 20m,crime
+Raavsaheb,7.9, (10),2h 18m,crime
+Oppa,8.4, (49),1h 24m,crime
+Un homme en fuite,5.4, (172),1h 46m,crime
+Io e te dobbiamo parlare,4.2, (301),1h 35m,crime
+Hovering Blade,6.1, (238),1h 47m,crime
+Gde nashi dengi?,5.8, (126),1h 16m,crime
+Vivekam,8.2, (309),1h 44m,crime
+Bond of Justice: Kizuna Part I - Encounter,5.6, (20),1h 32m,crime
+Gold Boy,6.5, (153),2h 9m,crime
+Tschugger - Der Lätscht Fall,8.1, (171),2h 27m,crime
+Don't Love,7.7, (1.5K),2h 57m,crime
+Poslednji strelac,5.4, (266),1h 30m,crime
+A Brothers Bond,5.1, (57),1h 43m,crime
+Chitram Choodara,4.5, (15),2h 7m,crime
+Salvajes,5.5, (61),1h 30m,crime
+Maven,8.5, (65),2h 15m,crime
+Pathological: The Lies of Joran van der Sloot,6.5, (352),1h 33m,crime
+Gam Gam Ganesha,5.3, (316),2h 20m,crime
+Rhino Man,8.9, (44),1h 36m,crime
+Landkrimi: Steirergift,6.4, (74),1h 30m,crime
+Secret Home,8.3, (148),1h 57m,crime
+Suspect,4.5, (88),1h 34m,crime
+Buenas noches,6.5, (17),1h 31m,crime
+Sinful Lies,6.7, (8),1h 5m,crime
+Routa,6.5, (34),2h 7m,crime
+The Star City Murders,4.1, (148),1h 19m,crime
+Thirumbipaar,6.1, (241),1h 41m,crime
+Tiger Wolf Rabbit,6.3, (564),2h 6m,crime
+El Juego Del Poder,8.0, (11),1h 35m,crime
+Døde menn går på ski,5.2, (335),1h 29m,crime
+Blood and Black,7.1, (1.1K),1h 28m,crime
+One Last Time,7.0, (15),1h 22m,crime
+Muroi Shinji: Yaburezaru Mono,6.6, (21),1h 55m,crime
+Thankamani,4.6, (234),2h 36m,crime
+Nastupit leto,5.5, (55),1h 34m,crime
+Passages of Nexus,5.2, (312),1h 48m,crime
+Raktaksha,7.9, (1.4K),1h 58m,crime
+Cookster: The Darkest Days,8.2, (44),1h 59m,crime
+Holiday Hold-Up,5.6, (71),1h 29m,crime
+Vojna policajtov,6.5, (347),2h 30m,crime
+Dream Team,5.0, (68),1h 31m,crime
+Porch Pirates,5.0, (109),1h 47m,crime
+Telekinesis,5.8, (63),1h 46m,crime
+Overdose,9.0, (55),2h 15m,crime
+Niyathi,6.8, (173),1h 53m,crime
+Bury Him,6.8, (19),1h 28m,crime
+Dickweed,7.1, (39),1h 30m,crime
+Blue Christmas,5.8, (21),1h 19m,crime
+Chor Dil,7.5, (40),2h 15m,crime
+Welcome to the Game,5.9, (68),1h 30m,crime
+Rebel,3.2, (66),1h 40m,crime
+Historias invisibles,6.4, (29),1h 50m,crime
+Murder in a Teacup,6.3, (152),1h 33m,crime
+Abudeka Is Back,5.4, (44),2h,crime
+Cursed in Baja,6.3, (29),1h 20m,crime
+The Stix,7.5, (36),2h 3m,crime
+Los Justos,6.4, (74),1h 19m,crime
+Bozji gnjev,7.2, (59),1h 51m,crime
+Die Bloedhonde,6.4, (11),1h 37m,crime
+Searching for Amani,7.8, (36),1h 20m,crime
+Unknown Caller,6.9, (30),1h 3m,crime
+Brattt,4.7, (68),1h 57m,crime
+Paarijathaparvam,6.2, (2.3K),2h 13m,crime
+CHAAW: Chapter 3 - Christmas Time Is Here,7.9, (477),1h 12m,crime
+Gossip to Die For,5.2, (85),1h 34m,crime
+Nelma Kodama: The Queen of Dirty Money,5.5, (205),1h 34m,crime
+Three Old Boys,4.8, (99),1h 48m,crime
+Bigul,8.8, (56),2h 24m,crime
+The Bitter Sugar,6.8, (9),1h 32m,crime
+Piano Love,5.8, (15),1h 36m,crime
+Orah,7.1, (23),1h 35m,crime
+Cafe 404,7.2, (43),1h 33m,crime
+Lipstick on the Glass,4.1, (13),1h 56m,crime
+Pepe,4.9, (495),2h 6m,crime
+Whatever It Takes,8.3, (14),1h 33m,crime
+Wieczór kawalerski,4.5, (441),1h 25m,crime
+Mukhya Gamanika,8.4, (2.1K),2h 5m,crime
+Martingale,5.3, (105),1h 43m,crime
+Jaspal,7.2, (32),1h 46m,crime
+Kokuhaku Confession,5.6, (159),1h 14m,crime
+Above the Trees,6.5, (14),2h 5m,crime
+Sangharshana,7.3, (1.6K),1h 42m,crime
+Housekeeping,6.0, (41),1h 38m,crime
+Hocus Focus,7.9, (20),1h 25m,crime
+Ingu Mirugangal Vaazhum Idam,6.2, (14),1h 48m,crime
+Sharma & Ambani,9.1, (184),1h 44m,crime
+Jama,6.0, (18),1h 11m,crime
+Raja Rani,9.3, (101),2h 14m,crime
+Aranam,7.5, (403),2h 7m,crime
+Marine Drive,9.5, (50),1h 45m,crime
+The Victims,5.9, (90),1h 39m,crime
+Vrutos,8.4, (9),1h 40m,crime
+Kala Ratri,6.8, (15),2h 2m,crime
+Common Sense,3.4, (21),1h 8m,crime
+Black Girl Fatal,8.3, (8),2h 2m,crime
+The London Underground Killer,4.7, (93),1h 31m,crime
+Kingdom Reign,8.4, (38),1h 59m,crime
+The Station Strangler,7.6, (6),1h 39m,crime
+Dark World,4.9, (19),2h 15m,crime
+4N6,9.6, (62),1h 57m,crime
+Jimmy's Friends,7.1, (14),1h 34m,crime
+Tiempo de Pagar,7.2, (53),1h 3m,crime
+Gally Gang Stars,8.9, (2K),2h 37m,crime
+AK47,7.2, (15),2h 26m,crime
+What Lies Within,5.2, (13),1h 30m,crime
+My Home Hero the Movie,6.7, (13),1h 57m,crime
+Los Hijos De Camelia y Emilio,6.6, (39),1h 22m,crime
+Dream Lock,8.6, (23),1h 40m,crime
+The Dealer,7.8, (14),2h,crime
+Laandhar,4.2, (99),1h 57m,crime
+The Bottom Line,6.7, (14),1h 47m,crime
+Meitantei Conan Bâsasu Kaitô Kiddo,6.1, (173),1h 21m,crime
+Charlotte Link - Ohne Schuld,5.5, (43),1h 29m,crime
+Netru Indha Neram,5.5, (136),2h 20m,crime
+"Milk, Rice, and the Blood",7.5, (154),45m,crime
+Lesní vrah,4.2, (80),1h 18m,crime
+Crime Reel,7.5, (141),1h 51m,crime
+La mort viendra,6.0, (43),1h 41m,crime
+ONENESS,9.4, (21),1h 55m,crime
+Jalandhara,9.1, (547),1h 50m,crime
+Hain,2.9, (51),1h 35m,crime
+Money No Enough 3,6.0, (267),2h 18m,crime
+Maloney - Die ersten drei haarsträubenden Fälle,6.8, (79),1h 38m,crime
+Der Wien-Krimi: Blind ermittelt - Tod im Palais,6.9, (30),1h 28m,crime
+Valleyheart,8.6, (38),1h 38m,crime
+Abduction Chronicles,8.6, (37),2h 6m,crime
+Zeke,6.6, (10),50m,crime
+Lipstick,6.2, (32),2h 25m,crime
+Castillo,7.9, (36),2h 8m,crime
+Beneath the Fold,7.3, (31),1h 20m,crime
+Koresha,3.0, (66),1h 26m,crime
+Opportunity,8.9, (91),1h 36m,crime
+Real Estate Sisters,4.4, (30),1h 24m,crime
+Nero,7.3, (7),1h 45m,crime
+Hani,7.8, (5),1h 13m,crime
+Leha,2.3, (42),1h 38m,crime
+Theppa Samudram,7.4, (1.6K),2h 13m,crime
+5D,8.1, (580),2h 9m,crime
+Vallavan Vaguthadhada,6.5, (59),1h 44m,crime
+Spending Some Time Together,6.9, (29),2h 26m,crime
+Dheera Samrat,9.8, (99),2h 3m,crime
+First Rites,6.0, (7),1h 54m,crime
+Vergüenza,6.9, (25),1h 43m,crime
+Chacaleria,7.8, (421),1h 56m,crime
+Downfall of the Crypto King (theatrical feature),6.2, (37),1h 30m,crime
+Walk the Line,5.5, (97),1h 55m,crime
+Mudo Kannu,6.6, (2.1K),1h 40m,crime
+Metamorfosi dell'essere,7.0, (90),1h 45m,crime
+Give Me a Ride,5.1, (18),1h 42m,crime
+Myall Creek Day of Justice,6.4, (17),1h 18m,crime
+Abnormal: Buas,5.7, (28),1h 30m,crime
+Full Clip for a Snitch,3.6, (19),1h 15m,crime
+Nasha Jurm Aur Gangsters,6.7, (2.8K),2h 17m,crime
+Pink Butterfly,5.7, (56),1h 49m,crime
+Minnesota v. We the People,9.3, (6),55m,crime
+Yathabhava,8.3, (30),2h 7m,crime
+Snowstorm,4.5, (6),1h 31m,crime
+Little Black Submarines,6.9, (59),2h 3m,crime
+Agontuk,5.3, (25),2h 5m,crime
+Liebling Kreuzberg 2.0,5.1, (52),1h 29m,crime
+Deal at the Border,7.8, (11),1h 44m,crime
+Runnin' from Wolves,7.2, (10),2h 13m,crime
+Guxim,7.2, (37),1h 15m,crime
+Thozhar Che Guevara,5.1, (37),2h,crime
+7vens Law,9.3, (20),1h 8m,crime
+Shina,7.9, (8),1h 38m,crime
+La Tamalera,8.4, (10),1h 55m,crime
+Mina and the Radio Bandits,7.3, (45),1h 50m,crime
+Nietzsche's Umbrella,8.7, (21),1h 26m,crime
+Who Killed Angel Adams?,6.4, (25),1h 16m,crime
+"Bullets, Brothers and Blood",7.8, (15),1h 25m,crime
+Dai jia fa de ren,5.4, (62),2h 1m,crime
+Gull Lake Vice II: The Delusion Continues,8.1, (18),58m,crime
+Dead Name,9.0, (11),1h 24m,crime
+Lie Du,2.5, (7),1h 47m,crime
+Grey Games,8.6, (1.1K),2h 1m,crime
+Beauty Grace Malice,7.6, (45),1h 21m,crime
+The Good Loan Sharks,4.9, (74),2h 2m,crime
+Shades of Sapphire,7.8, (10),1h 17m,crime
+Bunny & Clive,2.4, (28),1h 16m,crime
+Passagrana,6.4, (140),1h 40m,crime
+A Valentine's Day,8.4, (9),2h 6m,crime
+"Compa, me gusta su vieja",5.9, (28),1h 26m,crime
+The Real Story of January 6: Part 2 - The Long Road Home,6.2, (29),1h 30m,crime
+Pungut,7.5, (16),1h 40m,crime
+Muzhskoe slovo,6.4, (463),1h 34m,crime
+Game Over,5.7, (20),1h 14m,crime
+Diari de la meva sextorsió,6.6, (56),1h 4m,crime
+Rancor,6.8, (35),1h 23m,crime
+Common Creed: Trafficking,6.6, (13),1h 46m,crime
+El Cartel De Teresa,8.2, (10),1h 36m,crime
+The Deal,8.9, (28),2h 10m,crime
+Break War,2.7, (17),1h 26m,crime
+The Housewife and the Hustler 2: The Reckoning,6.5, (46),1h 34m,crime
+The Kills,8.8, (9),1h 10m,crime
+Killcon,9.5, (14),31m,crime
+Kunstroof,7.0, (44),1h 42m,crime
+Insurance Jimmy,6.5, (150),1h 50m,crime
+A Place Under the Sun,9.2, (36),1h 50m,crime
+Novyy god v Beryozovke,7.0, (101),1h 34m,crime
+Falsos Amigos,10.0, (5),1h 53m,crime
+Malam Pertobatan,6.7, (14),1h 21m,crime
+"Fallen Leaves, Broken Lighters",7.7, (8),1h 36m,crime
+Namak,4.5, (13),1h 15m,crime
+Po du xing dong,6.7, (6),1h 19m,crime
+So It Goes,3.2, (19),1h 17m,crime
+Ata Nirjon Duporiya,8.0, (10),1h 43m,crime
+A Frozen Rage,5.3, (49),1h 55m,crime
+Uno Sir,6.5, (47),1h 46m,crime
+Nacida Para Vengar,8.2, (10),1h 42m,crime
+Duelo De Capos,6.3, (40),1h 23m,crime
+Below the Rim,5.0, (16),1h 29m,crime
+G - 21 scener från Gottsunda,6.9, (194),1h 20m,crime
+The Hole Story,7.4, (8),1h 27m,crime
+Water Mafia,9.1, (13),45m,crime
+Who Do You Trust?,3.5, (42),1h 36m,crime
+SMB-plush presents trick or death,8.0, (17),2h,crime
+El Junior Del Patron,7.1, (15),1h 32m,crime
+Atlanta 10.02,5.8, (16),45m,crime
+Cravings,1.7, (14),2h 35m,crime
+Thirsty for Likes,4.4, (39),46m,crime
+Randa Ramphal,8.5, (8),1h 10m,crime
+No Loose Ends,6.7, (9),1h 8m,crime
+A Reel Heist,5.2, (58),1h 56m,crime
+Vengeful,6.1, (18),1h 40m,crime
+Kenda,8.9, (21),2h 15m,crime
+The AI Dharma Story,1.9, (1.1K),1h 29m,crime
+The Burned Hand,8.0, (12),1h 25m,crime
+Detroit Ransom,6.8, (11),1h 16m,crime
+Cageling,5.8, (8),1h 9m,crime
+Dawgz Life,8.3, (14),2h 23m,crime
+Beautifully Broken People,8.9, (9),1h 15m,crime
+Blitz,7.2, (9),6m,crime
+Slapes,6.7, (32),1h 22m,crime
+Partners in Crime,7.8, (6),1h 12m,crime
+Mun Kaupunki,6.6, (22),1h 45m,crime
+Rangeli,5.8, (121),2h 20m,crime
+Las Hermanas Del Cartel,8.5, (6),1h 31m,crime
+Conviction,7.0, (41),1h 37m,crime
+Lealtad o Morir,8.4, (10),1h 27m,crime
+Yurka,4.2, (32),1h 25m,crime
+Yaa Devi Sarva Bhuteshu,8.7, (9),1h 59m,crime
+All Suspects,3.6, (20),1h 36m,crime
+La Nueva Camelia,5.7, (24),1h 35m,crime
