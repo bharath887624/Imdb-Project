@@ -350,8 +350,6 @@ plt.tight_layout()
 
 st.pyplot(fig)
 
-#st.dataframe(df.head())
-
 st.markdown("<br>", unsafe_allow_html=True)
 
 st.subheader("Interactive Filter")
